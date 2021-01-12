@@ -8,6 +8,8 @@ Die Aufgabe ist sehr umfangreich, deswegen gehen wir in einzelnen Schritten vor:
 
 ## Schritt 1:
 
+Erstellt eine Datei `program.py` für euer Programm.
+
 **Game Loop**
 
 Der Kern des Spiels sind zwei Zeilen (`Du siehst...` und `Sprichst...`), die wiederholt werden.
